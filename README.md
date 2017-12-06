@@ -17,3 +17,6 @@ https://vahidmoosavi.com/2014/02/18/a-self-organizing-map-som-package-in-python-
 https://github.com/sevamoo/SOMPY
 
 
+**Mini SOM**
+
+https://glowingpython.blogspot.jp/2013/09/self-organizing-maps.html
