@@ -8,8 +8,7 @@ http://peterwittek.github.io/somoclu/
 
 http://peterwittek.com/somoclu-in-python.html
 
-
-
+https://somoclu.readthedocs.io/en/stable/reference.html
 
 
 **SOMPY library**
