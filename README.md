@@ -53,3 +53,8 @@ http://www.ai-junkie.com/ann/som/som1.html
 **TensorFlow implementation**
 
 https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
+
+
+**Code for Kohonen**
+
+https://github.com/lmjohns3/kohonen/blob/master/kohonen/kohonen.py
