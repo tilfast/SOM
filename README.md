@@ -36,6 +36,10 @@ https://github.com/damayanthiHerath/selforganisingmaps
 
 
 
+**Excellent code walkthrough**
+
+http://blog.yhat.com/posts/self-organizing-maps-2.html
+
 
 
 **Explaination**
